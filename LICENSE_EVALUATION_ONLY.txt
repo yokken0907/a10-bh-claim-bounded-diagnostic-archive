@@ -1,0 +1,7 @@
+Evaluation-Only Public License Notice
+
+This repository is provided for public evaluation, inspection, and reproducibility review.
+
+No permission is granted to represent this material as a validated physical theory, a production scientific tool, or an accepted black-hole physics result.
+
+The claim boundary stated in README.md and docs/CLAIM_BOUNDARY.md governs public interpretation of this archive.

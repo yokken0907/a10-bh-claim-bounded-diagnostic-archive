@@ -1,0 +1,31 @@
+stage_id,stage_name,decision,plain_meaning
+R0,re-exploration seed / unprune inventory,PASS,"Reinterpreted old archive pause as public-claim pause, not exploration ban."
+R1,A10-free known-solution baseline,PASS,Flat/Schwarzschild/Kruskal/Vaidya scaffold without physical claims.
+R1B,grid-refinement / perturbation audit,PASS,Known-solution diagnostic stability checked.
+R2,entropy-extremal diagnostic revisit,PASS,QES-like branch reopened only as reduced diagnostic.
+R2B,entropy-extremal negative-control expansion,PASS,Negative controls produced zero false accept.
+R3,action/stress sandbox strict preflight,PASS,A10/VPT-like branch restored only as manufactured sandbox.
+R3B,failure-boundary / holdout audit,FAIL→REMEDIATED,nondecaying_tail false accepts found; archived as real failure.
+R3BRR,nondecaying-tail guard remediation,PASS,Tail guard strengthened; false accepts returned to zero.
+R3C,integrated remediated action/stress rerun,PASS,Smooth holds pass; artifacts rejected after remediation.
+R4,marching-solver independent-replication preflight,PASS,Manufactured marching solver checks passed.
+R4B,solver stability randomized holdout audit,PASS,Convergence and holdout checks passed.
+R5,candidate-map sandbox preregistration,PASS,Diagnostic candidate map generated; not physical candidates.
+R5B,adversarial negative-control expansion,PASS,Adversarial negatives rejected.
+R5C,candidate-event morphology stability audit,PASS,Two stable sandbox morphology clusters locked.
+R6,synthetic-evolution coupling preflight,FAIL→REMEDIATED,Paired morphology collapsed under global width gate; archived.
+R6RR,paired-morphology coupling remediation,PASS,Morphology-specific paired guard restored two clusters.
+R6B,synthetic-coupling ablation / stress audit,PASS,Ablation and stress controls did not falsely persist.
+R7,candidate-map consolidation / route ledger,PASS,"216 diagnostic events, two clusters, aggregate false accept zero."
+R8,pre-physical-entry bridge audit,PASS / ENTRY DENIED,Eight bridge prerequisites remained unsatisfied.
+R9,reduced bridge-model specification sandbox,PASS / ENTRY DENIED,Three sandbox bridge model specs frozen.
+R10,reduced bridge-model equation residual preflight,PASS / ENTRY DENIED,Manufactured residual checks passed.
+R10B,gauge/coordinate sensitivity audit,PASS / ENTRY DENIED,Admissible transforms stable; adversarial transforms rejected.
+R11,stress-energy consistency sandbox preflight,PASS / ENTRY DENIED,Stress proxy sandbox only; no real stress-energy claim.
+R12,boundary / initial-data embedding sandbox audit,PASS / ENTRY DENIED,Boundary embedding templates passed in sandbox.
+R13,external-comparator readiness / handoff audit,PASS / ENTRY DENIED,Five external handoff routes specified.
+R14,external-comparator scaffold known-solution preflight,PASS / ENTRY DENIED,Known-solution scaffold replay passed.
+R14B,adapter / schema roundtrip audit,PASS / ENTRY DENIED,Roundtrip schema and adapter stress checks passed.
+R15,comparator asset / adapter readiness gate,PASS / ENTRY DENIED,16 required external assets identified; all missing.
+R15B,local external-asset binder preflight,PASS / ENTRY DENIED,"Binder did not fake absent assets; 0 bound, 16 missing."
+R15P,archive / handoff pause,PASS / PAUSE LOCKED,No-assets continuation locked to archive/handoff pause.

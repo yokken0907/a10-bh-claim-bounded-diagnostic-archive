@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you use this archive, please cite it as below.
+title: "A10 Claim-Bounded Black-Hole Interior Re-Exploration Archive: Synthetic Diagnostic Candidate Mapping and External-Comparator Handoff under the A10 Core Methodology"
+authors:
+  - family-names: Yoshimura
+    given-names: K.
+version: "0.2.0"
+date-released: "2026-05-28"
+license: other-open
+repository-code: "TO-BE-ADDED-BY-AUTHOR"
+abstract: "A claim-bounded sandbox diagnostic archive and external-comparator handoff package for black-hole interior re-exploration under A10 Core v0.2.1. This archive makes no black-hole interior discovery, QES, singularity-resolution, beyond-GR, numerical-relativity, or accepted-physical-candidate claim."
+keywords:
+  - black hole
+  - A10 Core
+  - claim boundary
+  - diagnostic archive
+  - reproducibility
+  - external comparator

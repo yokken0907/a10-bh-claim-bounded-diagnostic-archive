@@ -1,0 +1,141 @@
+{
+  "generated_utc": "2026-05-28T12:13:35.889254+00:00",
+  "file_count": 27,
+  "files": [
+    {
+      "path": ".zenodo.json",
+      "size_bytes": 1043,
+      "sha256": "aa0b12cf3f2c5b66a30ee2a8114a11c7b8aa82ebff7408c6ae108fbe9bccde9f"
+    },
+    {
+      "path": "CITATION.cff",
+      "size_bytes": 848,
+      "sha256": "be27bf959b72939db9d826dc772ed2904f1169fba4555cd0c27a3fb914ed15ca"
+    },
+    {
+      "path": "LICENSE_EVALUATION_ONLY.txt",
+      "size_bytes": 401,
+      "sha256": "815112a9cc18311541be9b3ff7ac0657fc6f73cad8860c3a5d4309c560772c72"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 2830,
+      "sha256": "ff6a246360f0e8467f11d052bcdda34d3724d319e9215c4bc13a349973b2e4e8"
+    },
+    {
+      "path": "README_ja.md",
+      "size_bytes": 1466,
+      "sha256": "e24c8c41ede0c59a91025087bf0146f55b602e14d90f95726b8b6ea6455c7236"
+    },
+    {
+      "path": "SUPPORT.md",
+      "size_bytes": 353,
+      "sha256": "35ab91ef2d0489d810d2ec26d3e4976e88f9d212fd988fd8f2e45d5fc4536d9f"
+    },
+    {
+      "path": "data/R16_required_external_asset_checklist.csv",
+      "size_bytes": 2084,
+      "sha256": "f3f62d2a5ddc6c338071cc50ed2082d9b0aea8af1c51406b71f7cdae7e003b82"
+    },
+    {
+      "path": "data/R16_route_stage_ledger.csv",
+      "size_bytes": 3332,
+      "sha256": "971fa0fa659209a701a18bc2713892b30914f163702ff0fc162ff5f76d97185d"
+    },
+    {
+      "path": "docs/CLAIM_BOUNDARY.md",
+      "size_bytes": 852,
+      "sha256": "8857d40933e26bb55f0d130325f4fca56a9d6f598f5577ccca97f7e727db2134"
+    },
+    {
+      "path": "docs/EXECUTIVE_SUMMARY_ja.md",
+      "size_bytes": 1823,
+      "sha256": "489917e2f123b8e0080cdbcd8e72f76986c902ca45e6368ef8114ce065b663b2"
+    },
+    {
+      "path": "docs/EXTERNAL_ASSET_REQUEST_CHECKLIST.md",
+      "size_bytes": 2415,
+      "sha256": "ea84cf956f061a746ae8014ccaeb8c5eaae05c9dbe0bc90f1f390902dbab34b7"
+    },
+    {
+      "path": "docs/GITHUB_REPOSITORY_DATA.md",
+      "size_bytes": 1073,
+      "sha256": "a07d1682ae4af700c60d230c9a311e87e4a9e669f6341798d8c4b852d23ec017"
+    },
+    {
+      "path": "docs/JXIV_SUBMISSION_METADATA_DRAFT.md",
+      "size_bytes": 2921,
+      "sha256": "1c1549354243c8e9b3f926a480cb6543f5965a391aa955ee62ff9dc3d803d9ce"
+    },
+    {
+      "path": "docs/NEXT_THREAD_HANDOFF_ja.md",
+      "size_bytes": 1453,
+      "sha256": "60c5cb8c9b71ca97a6db228066397ff4f3a5b2edbc8f6df422a07fda571917a9"
+    },
+    {
+      "path": "docs/RELEASE_NOTES.md",
+      "size_bytes": 1433,
+      "sha256": "3b8f9f3e8921b83b7a10aa987d6208090a99ccac7ff14b1df58810dcea4f36df"
+    },
+    {
+      "path": "docs/SPECIALIST_HANDOFF_BRIEF.md",
+      "size_bytes": 1965,
+      "sha256": "e38a52712d7c64f6cae4632792a54892e299c1a04bebdb0ac3ddd3d14a2a83dd"
+    },
+    {
+      "path": "docs/TECHNICAL_STATUS_LEDGER.md",
+      "size_bytes": 1019,
+      "sha256": "6965dd3a527c19230ae67a9bb27a2586971ce83da30ff15be5e0e483659b6370"
+    },
+    {
+      "path": "docs/project_visual_orientation/index.html",
+      "size_bytes": 2624,
+      "sha256": "813508e63a4ac819fee9fa7133bc4910e69b65f59097b4577a997b6fa5cc2d50"
+    },
+    {
+      "path": "paper/README.md",
+      "size_bytes": 670,
+      "sha256": "f54482ff37e6625ec9efc64177e78444162d6f944fc0a45e9821a218156a7b9a"
+    },
+    {
+      "path": "paper/a10_bh_claim_bounded_diagnostic_archive_v0_2_0.pdf",
+      "size_bytes": 194268,
+      "sha256": "e4de806c58a2adfee807a7e89065004c3fb0a63c2fe1f0b66934e2f99a61272b"
+    },
+    {
+      "path": "paper/a10_bh_claim_bounded_diagnostic_archive_v0_2_0.tex",
+      "size_bytes": 17850,
+      "sha256": "b8ce75c95e09739e2e02cc3c53b0b349032304d4e31eada39f2dfc4252758a77"
+    },
+    {
+      "path": "reports/REPOSITORY_QA_REPORT.md",
+      "size_bytes": 481,
+      "sha256": "14bd865e5bc285aa842ca6c4cbe256a35982f12016f4d0a0c1f37e8f47f3f7ec"
+    },
+    {
+      "path": "run_BH_R17.sh",
+      "size_bytes": 4661,
+      "sha256": "40997b501ef6265a7fd7a8385b2ef28d0500aef4ce31752288b40f69adba6af3"
+    },
+    {
+      "path": "run_REPOSITORY_QA.sh",
+      "size_bytes": 390,
+      "sha256": "54ae3f38dc2b8a73413ca57ed628c2fcbb8a655afad57b5692336227969b2451"
+    },
+    {
+      "path": "scripts/verify_manifest.py",
+      "size_bytes": 1022,
+      "sha256": "97f0b9afedc4a26b287102ac4e40aa0bc099ba92ca7471f04d44ca1809e8641d"
+    },
+    {
+      "path": "static/upstream/R16_claim_boundary_counts.json",
+      "size_bytes": 938,
+      "sha256": "191b3d690efce61e23d3a9e2be4d07e8c1e75690ca1d3f70ad8c6d7dec307d0b"
+    },
+    {
+      "path": "static/upstream/R16_summary_lock.json",
+      "size_bytes": 1489,
+      "sha256": "a8a42d467bed47a7113aa7dd5bd548dd13e32535a513cb935aa4aaa11aa5d9f7"
+    }
+  ]
+}

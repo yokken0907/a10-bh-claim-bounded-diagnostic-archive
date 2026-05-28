@@ -1,0 +1,20 @@
+# External Asset Request Checklist
+
+The following assets are required before BH-R15C can be executed.
+
+- `C1` / `known_solution_reference_adapter`: flat-space null reference dataset — **missing**. required before external-comparator execution
+- `C1` / `known_solution_reference_adapter`: Schwarzschild reference metric/invariant data — **missing**. required before external-comparator execution
+- `C1` / `known_solution_reference_adapter`: Kruskal coordinate reference dataset — **missing**. required before external-comparator execution
+- `C1` / `known_solution_reference_adapter`: Vaidya apparent-horizon reference dataset — **missing**. required before external-comparator execution
+- `C2` / `numerical_relativity_metric_comparator`: external numerical-relativity metric output — **missing**. requires trusted external or high-fidelity source
+- `C2` / `numerical_relativity_metric_comparator`: metric gauge metadata and coordinate map — **missing**. required for comparator binding
+- `C2` / `numerical_relativity_metric_comparator`: boundary/initial-data metadata — **missing**. required for comparator binding
+- `C3` / `semiclassical_qft_qes_comparator`: model-defined QFT/QES calculation input — **missing**. required for QES comparator
+- `C3` / `semiclassical_qft_qes_comparator`: renormalization/regularization convention metadata — **missing**. required for QES comparator
+- `C3` / `semiclassical_qft_qes_comparator`: entropy functional definition — **missing**. required for QES comparator
+- `C4` / `stress_energy_source_consistency_comparator`: real or high-fidelity stress-energy tensor/source data — **missing**. required for stress-energy comparator
+- `C4` / `stress_energy_source_consistency_comparator`: energy-condition evaluation convention — **missing**. required for stress-energy comparator
+- `C4` / `stress_energy_source_consistency_comparator`: Einstein/semi-classical residual comparator definition — **missing**. required for stress-energy comparator
+- `C5` / `singularity_consistency_theorem_handoff`: theorem/no-go target statement — **missing**. requires specialist proof route
+- `C5` / `singularity_consistency_theorem_handoff`: assumptions and regularity class — **missing**. requires specialist proof route
+- `C5` / `singularity_consistency_theorem_handoff`: consistency-proof or counterexample comparator — **missing**. requires specialist proof route
