@@ -1,0 +1,30 @@
+{
+  "title": "A10 Claim-Bounded Black-Hole Interior Re-Exploration Archive: Synthetic Diagnostic Candidate Mapping and External-Comparator Handoff under the A10 Core Methodology",
+  "upload_type": "software",
+  "publication_date": "2026-05-28",
+  "creators": [
+    {
+      "name": "Yoshimura, K."
+    }
+  ],
+  "description": "Claim-bounded sandbox diagnostic archive and external-comparator handoff package for black-hole interior re-exploration under A10 Core v0.2.1. The archive makes no black-hole interior discovery, QES detection, singularity-resolution, beyond-GR, numerical-relativity, or accepted physical-candidate claim.",
+  "access_right": "open",
+  "license": "other-open",
+  "version": "0.2.0",
+  "keywords": [
+    "black hole",
+    "A10 Core",
+    "claim boundary",
+    "diagnostic archive",
+    "external comparator",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.20343694",
+      "relation": "isDerivedFrom",
+      "scheme": "doi",
+      "resource_type": "software"
+    }
+  ]
+}
